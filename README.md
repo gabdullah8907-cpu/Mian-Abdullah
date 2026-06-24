@@ -1,3 +1,3 @@
 # Mian-Abdullah
 It's my first Git Repository.
-Author - Abdullah Bin SHahid
+Author - Abdullah Bin Shahid
