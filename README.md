@@ -1,4 +1,4 @@
 # Mian-Abdullah
 It's my first Git Repository.
 <br>
-Author - Abdullah Bin Shahid
+Author - Abdullah Bin Shahid (ABS)
